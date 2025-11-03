@@ -1,7 +1,7 @@
 // ===============================
 //  EmpowerBot Chat Assistant
 // ===============================
-const GROQ_API_KEY = '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'; // test key
+const GROQ_API_KEY = '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'; // test key
 const GROQ_API_URL = 'https://api.groq.com/v1/chat/completions';
 
 class GroqChat {
